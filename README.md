@@ -2,7 +2,7 @@
 
 Copyright (C) 2024 Reinnier Padilla
 
-Database for ChIPbinner. Contains example data as well as curated databases from Ensembl, Encode and RepeatMasker for use with ChIPbinner.
+Contains example data as well as curated databases from Ensembl, Encode and RepeatMasker for use with ChIPbinner.
 
 * 'reference_windows' contains reference windows that can be used to transform aligned BAM files into binned BED files.
 
